@@ -1,3 +1,2 @@
-TaskB/Model/VGGTaskB filter=lfs diff=lfs merge=lfs -text
 TaskB/DataAfterProcess/X_VGG_256.pickle filter=lfs diff=lfs merge=lfs -text
 TaskB/Model/VGGTaskB.h5 filter=lfs diff=lfs merge=lfs -text
