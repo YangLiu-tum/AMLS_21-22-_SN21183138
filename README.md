@@ -69,7 +69,8 @@ The following files and folders are in folder Task A, used for implementation of
 * This file saves the code for traning, validation, test of support vector machine.  
 * Detailed information can be found in Section 4.2.3 and 5.1 of report.
 
-
+&nbsp;    
+&nbsp;    
 
 ###  Task B
 The following files and folders are in folder Task B, used for implementation of mutilple classification task B.
@@ -133,4 +134,4 @@ The following files and folders are in folder Task B, used for implementation of
 ## Run the code
 
 For each .ipynb file, simply click Cell-->Run all, and you are good to go. (Note that this will overwrite the previous results). 
-In addition, all codes have been detailed commented and also explained in detail based on the markdown cekks in jupyter notebook.
+In addition, all codes have been detailed commented and also explained in detail based on the markdown cells in jupyter notebook.
